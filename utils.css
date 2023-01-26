@@ -1,0 +1,31 @@
+.text-center{
+  text-align: center;
+  background-color: darkorange;
+  width: 280px;
+  border-radius: 20px;
+  margin: 0 auto 20px ;
+}
+
+.bg-black{
+  background-color:black;
+  width: 280px;
+  border: black;
+  border-radius: 20px;
+  height: 400px;
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.flex{
+  display: flex;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
